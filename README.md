@@ -3,6 +3,7 @@
 ## Objetivo
 Este projeto visa desenvolver um modelo de machine learning para prever a probabilidade de fraude em transações de cartão de crédito. Utilizamos o conjunto de dados de detecção de fraudes em cartão de crédito do Kaggle.
 
+OBS.:  Os arquivos `dataset.csv` e `dados_processados.csv` não estão incluídos no repositório devido ao seu tamanho. Você pode baixá-los [aqui](https://link_para_download).
 
 ## Como Executar
 
