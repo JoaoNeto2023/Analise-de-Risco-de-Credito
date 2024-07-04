@@ -1,0 +1,9 @@
+
+@Autor: João Neto
+Data: 04/07/2024
+   
+pandas
+seaborn
+matplotlib
+scikit-learn
+joblib
